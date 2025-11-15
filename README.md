@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/R05VM8Rg)
 # IIT-Madras-DA2401-Machine-Learning-Lab-End-Semester-Project
 
 ## 📌 Purpose of this Template
@@ -7,7 +8,8 @@ This repository is the **starter** for your End Semester Project submission in G
 > **Scope (as per assignment brief):**
 > Give an introduction to your repository here: Eg. This repository contains a complete implementation for ...
 
----
+ML_lab_endsem folder contains 5 files, algorithm.py it contains all algorithms that i implemented ,main.py it contains best algorithm and best parameters, ML_LAB_ENDSEM.pdf  is report,MNIST_train.csv and MNIST_validation.csv are datasets .
+
 
 **Important Note:** 
 1. TAs will evaluate using the `.py` file only.
@@ -17,33 +19,32 @@ This repository is the **starter** for your End Semester Project submission in G
 
 ## 📁 Repository Structure
 
-* Describe your repository structure here. Explain about overall code organization.
+ML_lab_endsem folder contains 5 files
 
----
+1) algorithm.py it contains all algorithms that i implemented .
+
+2) main.py it contains best algorithm and best parameters
+
+3) ML_LAB_ENDSEM.pdf  is report
+
+4) MNIST_train.csv and MNIST_validation.csv are datasets .
+
 
 ## 📦 Installation & Dependencies
 
-* Mention all the related instructions for installation of related packages for running your code here.
 
----
-
+numpy,pandas,math and sklearn(for F1 score and accuracy) libraries
 ## ▶️ Running the Code
 
 All experiments should be runnable from the command line **and** reproducible in the notebook.
 
 ### A. Command-line (recommended for grading)
 
-* Mention the instructions to run you .py files.
-  
----
-
-## You can further add your own sections/titles along with corresponding contents here:
-
----
+you can run both algorithm.py and main.py directly since I included the code in the main.py
 
 ## 🧾 Authors
 
-**<Name, Roll No.>**, IIT Madras (2025–26)
+**<V.N.V.SRI HARSHA,DA24B034>**, IIT Madras (2025–26)
 
 
 ## Best Practices:

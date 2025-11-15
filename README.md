@@ -18,9 +18,10 @@ This repository is the **starter** for your End Semester Project submission in G
 
 ## 📁 Repository Structure
 
-* Describe your repository structure here. Explain about overall code organization.
+ML_lab_endsem folder contains 5 files
 
----
+1) algorithm.py it contains all algorithms that i implemented
+
 
 ## 📦 Installation & Dependencies
 
